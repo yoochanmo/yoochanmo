@@ -5,7 +5,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=YooChanMo)</div>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&text=YooChanMo)</div>
 
 </br>
 <div align="center" >👾 T o o l s 👾</div></br>
