@@ -12,7 +12,8 @@
 <a href="https://www.instagram.com/97chm0era_/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram%20IDE&logoColor=white">
 <a href="https://blog.naver.com/yjymtb">
-<img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver%20IDE&logoColor=white">
+</br>
 </br>
 <div align="center" >👾 T o o l s 👾</div></br>
 <div align="center" >
