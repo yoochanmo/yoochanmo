@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 <a href="https://blog.naver.com/yjymtb">
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white">
+<a href="https://catchthatguy.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white">
 </br>
 </br>
 <div align="center" >👾 T o o l s 👾</div></br>
