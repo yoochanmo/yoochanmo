@@ -19,7 +19,7 @@
 </br>
 
 
-<div align="center" >👾 T o o l s 👾</div></br>
+<div align="center" >👾 T O O L 👾</div></br>
 <div align="center" >
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
@@ -27,7 +27,7 @@
 </br>
 </br>
 
-<div align="center" > 💻 S t u d y 💻 </div></br>
+<div align="center" > 💻 S T U D Y 💻 </div></br>
 <div align="center" >
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=JSP&logoColor=white">
