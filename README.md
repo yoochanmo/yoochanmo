@@ -9,7 +9,7 @@
 </br>
 <div align="center" > 🔥🔥 S N S 🔥🔥</div></br>
 <div align="center" >
-<a href="https://www.instagram.com/97chm0era_/">
+<a href="https://instagram.com/97chm0era_?igshid=NGExMmI2YTkyZg==">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 <a href="https://blog.naver.com/yjymtb">
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white">
