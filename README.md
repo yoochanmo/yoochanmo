@@ -47,7 +47,9 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/></div>
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+</div>
 </br></br>
 </br>
 </br>
